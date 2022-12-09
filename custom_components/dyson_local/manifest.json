@@ -6,7 +6,7 @@
     "issue_tracker": "https://github.com/javempt/ha-dyson/issues",
     "dependencies": ["zeroconf"],
     "codeowners": ["@javempt"],
-    "requirements": ["libdyson==0.9.0"],
+    "requirements": ["javdyson==0.9.0"],
     "version": "0.16.4-4",
     "iot_class": "local_polling"
 }
