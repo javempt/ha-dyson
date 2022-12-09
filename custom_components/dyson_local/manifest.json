@@ -5,7 +5,7 @@
     "documentation": "https://github.com/shenxn/ha-dyson",
     "issue_tracker": "https://github.com/shenxn/ha-dyson/issues",
     "dependencies": ["zeroconf"],
-    "codeowners": ["@shenxn"],
+    "codeowners": ["@javempt"],
     "requirements": ["libdyson==0.8.11"],
     "version": "0.16.4-4",
     "iot_class": "local_polling"
